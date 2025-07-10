@@ -35,7 +35,8 @@
     "jsx": "react-jsx",
     "module": "ESNext",
     "target": "ES6",
-    "moduleResolution": "Node"
+    "moduleResolution": "Node",
+    "typeRoots": ["./dist"]
   },
   "sideEffects": false,
   "keywords": [
