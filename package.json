@@ -14,12 +14,6 @@
     "dist/index.umd.js",
     "dist/index.d.ts"
   ],
-  "targets": {
-    "main": false,
-    "module": false,
-    "browser": false,
-    "types": false
-  },
   "scripts": {
     "clean": "rm -rf ./dist",
     "build": "rollup -c",
